@@ -1,0 +1,22 @@
+---
+"email": 'alexamp2212@gmail.com'
+"ip": '222.165.139.190'
+"notify_account_authn_link": 1
+"notify_account_authn_link_notification_disabled": 1
+"notify_autossl_expiry": 1
+"notify_autossl_expiry_coverage": 1
+"notify_autossl_renewal_coverage": 1
+"notify_autossl_renewal_coverage_reduced": 1
+"notify_autossl_renewal_uncovered_domains": 1
+"notify_contact_address_change": 1
+"notify_contact_address_change_notification_disabled": 1
+"notify_disk_limit": 1
+"notify_email_quota_limit": 1
+"notify_password_change": 1
+"notify_password_change_notification_disabled": 1
+"notify_ssl_expiry": 1
+"notify_twofactorauth_change": 1
+"notify_twofactorauth_change_notification_disabled": 1
+"origin": 'cpanel'
+"pushbullet_access_token": ''
+"second_email": 'alexamp921@gmail.com'
